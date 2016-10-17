@@ -1,0 +1,11 @@
+C:\Source\Repos\SelfStudy\PracticeLayouts\PracticeLayouts\PracticeLayouts.WinPhone\obj\Debug\PracticeLayouts.WinPhone.csprojResolveAssemblyReference.cache
+C:\Source\Repos\SelfStudy\PracticeLayouts\PracticeLayouts\PracticeLayouts.WinPhone\obj\Debug\App.g.i.cs
+C:\Source\Repos\SelfStudy\PracticeLayouts\PracticeLayouts\PracticeLayouts.WinPhone\obj\Debug\App.g.cs
+C:\Source\Repos\SelfStudy\PracticeLayouts\PracticeLayouts\PracticeLayouts.WinPhone\obj\Debug\MainPage.g.i.cs
+C:\Source\Repos\SelfStudy\PracticeLayouts\PracticeLayouts\PracticeLayouts.WinPhone\obj\Debug\MainPage.g.cs
+C:\Source\Repos\SelfStudy\PracticeLayouts\PracticeLayouts\PracticeLayouts.WinPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Source\Repos\SelfStudy\PracticeLayouts\PracticeLayouts\PracticeLayouts.WinPhone\obj\Debug\App.xaml
+C:\Source\Repos\SelfStudy\PracticeLayouts\PracticeLayouts\PracticeLayouts.WinPhone\obj\Debug\MainPage.xaml
+C:\Source\Repos\SelfStudy\PracticeLayouts\PracticeLayouts\PracticeLayouts.WinPhone\obj\Debug\App.xbf
+C:\Source\Repos\SelfStudy\PracticeLayouts\PracticeLayouts\PracticeLayouts.WinPhone\obj\Debug\MainPage.xbf
+C:\Source\Repos\SelfStudy\PracticeLayouts\PracticeLayouts\PracticeLayouts.WinPhone\obj\Debug\XamlSaveStateFile.xml

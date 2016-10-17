@@ -1,0 +1,11 @@
+C:\Source\Repos\SelfStudy\PracticeLayouts\PracticeLayouts\PracticeLayouts.Windows\obj\Debug\PracticeLayouts.Windows.csprojResolveAssemblyReference.cache
+C:\Source\Repos\SelfStudy\PracticeLayouts\PracticeLayouts\PracticeLayouts.Windows\obj\Debug\App.g.i.cs
+C:\Source\Repos\SelfStudy\PracticeLayouts\PracticeLayouts\PracticeLayouts.Windows\obj\Debug\App.g.cs
+C:\Source\Repos\SelfStudy\PracticeLayouts\PracticeLayouts\PracticeLayouts.Windows\obj\Debug\MainPage.g.i.cs
+C:\Source\Repos\SelfStudy\PracticeLayouts\PracticeLayouts\PracticeLayouts.Windows\obj\Debug\MainPage.g.cs
+C:\Source\Repos\SelfStudy\PracticeLayouts\PracticeLayouts\PracticeLayouts.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Source\Repos\SelfStudy\PracticeLayouts\PracticeLayouts\PracticeLayouts.Windows\obj\Debug\App.xaml
+C:\Source\Repos\SelfStudy\PracticeLayouts\PracticeLayouts\PracticeLayouts.Windows\obj\Debug\MainPage.xaml
+C:\Source\Repos\SelfStudy\PracticeLayouts\PracticeLayouts\PracticeLayouts.Windows\obj\Debug\App.xbf
+C:\Source\Repos\SelfStudy\PracticeLayouts\PracticeLayouts\PracticeLayouts.Windows\obj\Debug\MainPage.xbf
+C:\Source\Repos\SelfStudy\PracticeLayouts\PracticeLayouts\PracticeLayouts.Windows\obj\Debug\XamlSaveStateFile.xml
