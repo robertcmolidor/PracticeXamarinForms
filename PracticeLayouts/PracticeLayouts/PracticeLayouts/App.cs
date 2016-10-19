@@ -22,11 +22,13 @@ namespace PracticeLayouts
         public App()
         {
             var tabs = new TabbedPage { Title = "Practice Layouts" };
-            //tabs.Children.Add(new MultiSelectPage { Title = "MultiSelect" });
+            tabs.Children.Add(new NavigationPage(new MultiSelectPage()) { Title = "MultiSelect" });
             tabs.Children.Add(new TumblePage { Title = "Tumble" });
             tabs.Children.Add(new KeyPadPage { Title = "KeyPad" });
             tabs.Children.Add(new ClockPage { Title = "Clock" });
+
             tabs.Children.Add(new TwoWayBindingPage { Title = "Colors" });
+            //tabs.Children.Add(new PickerView{ Title = "Picker" });
             tabs.Children.Add(new NamesPage { Title = "Names"});
             tabs.Children.Add(new Stack1Page { Title = "Stack 1" });
             tabs.Children.Add(new Stack2ImgPage { Title = "Stack 2" });

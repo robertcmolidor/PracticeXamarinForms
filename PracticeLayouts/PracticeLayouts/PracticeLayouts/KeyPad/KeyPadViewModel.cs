@@ -26,7 +26,7 @@ namespace PracticeLayouts.KeyPad
         {
             AddCharCommand = new Command<string>(key => { InputString += key; });  //this new command take takes a type of string called key.  we pass key to an anonymous function and it appends key to InputString                                  
             DeleteCharCommand = new Command(                                                            //this new command doesn't take anything.  
-                    nothing => { InputString = InputString.Substring(0, InputString.Length - 1); },     //sets InputString to its contents minus 1.  this is essentially dropping the last entry which is being deleted 
+                    nothing => { InputString = InputString.Substring(0, InputString.Length - 1); },     //sets InputString to its contents minus 1.  this is essentially dropping the last entry which is being deleted
                     nothing => InputString.Length > 1                                                   // returns true if InputString is bigger than 0
                     );                                                                                  //
         }
