@@ -1,5 +1,5 @@
 # PracticeXamarinForms
-runs on Android api level23 android, a simple pcl playground to learn the things
+runs on Android api level23. a simple pcl playground to learn the things
 
 
 all examples are code only.  no xaml
@@ -11,7 +11,7 @@ Corners simply demonstrates sticking labels in corners
 Keypad is an example of using ICommand to make buttons do stuff.  also translated from the xamarin forms mvvm documentation
   -this gave me a lot of challenge so it's notated all to hell.  just in case you're looking for that kind of thing
   
-Names simple takes whatever you type in and presents it in a label
+Names simply takes whatever you type in and presents it in a label
 
 Stack1 is an example of a horizontal stacklayout
 
